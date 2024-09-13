@@ -14,6 +14,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.10",
+    "@ffmpeg/util": "^0.12.1",
+    "onnxruntime-node": "^1.19.2",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
